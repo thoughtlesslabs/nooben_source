@@ -7,19 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Thoughtless Labs",
+  "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.27.2",
     "dotenv": "^16.0.1",
     "ejs": "^3.1.8",
-    "express": "^4.18.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thoughtlesslabs/nooben_source.git"
-  },
-  "bugs": {
-    "url": "https://github.com/thoughtlesslabs/nooben_source/issues"
-  },
-  "homepage": "https://github.com/thoughtlesslabs/nooben_source#readme"
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0"
+  }
 }
